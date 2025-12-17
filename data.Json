@@ -1,0 +1,7 @@
+{
+  "name": "MagicLearn Land",
+  "description": "An interactive fantasy world where kids learn math, reading, and logic through voice-based quests with magical characters.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
